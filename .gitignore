@@ -1,3 +1,8 @@
+# Oh boy that's a lot of ignores
+# I guess thanks git but jeez
+# Whatever, here's mine
+books/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
